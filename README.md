@@ -5,5 +5,3 @@ Imagine a website where people can actullay express their idea without thinking 
 
 Like a 'Mcharmel' , Tcharmila is a platform for freedom fighters.
 
-It uses gun.js for its decentralized technology .
-
